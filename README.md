@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @anhuynh219
-- 👀 I’m interested in IT
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Solari
+- 👀 I’m interested in Data Science, Web Develop
+- 🌱 I’m currently learning Python, JS
+- 📫 How to reach me anhuynh200319@gmail.com
 
 <!---
 anhuynh219/anhuynh219 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
