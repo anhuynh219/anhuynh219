@@ -70,7 +70,7 @@ My passion lies at the intersection of **Research** and **Engineering**, specifi
 * **Contribution:** Collected/Annotated large-scale dataset; Fine-tuned Transformer models for high accuracy.
 
 ### 🧠 [Code Assistant with Long Term Memory (LTM)](link-to-your-repo-if-any)
-*AI Engineer Intern @ Innotech Vietnam | Summer 2025*
+*AI Engineer Intern | Summer 2025*
 * **Description:** Enhanced a code assistant AI by implementing a **Knowledge Graph** for source code understanding (Python, Java, C++).
 * **Key Tech:** Tree-sitter, Knowledge Graph, MCP Server, Vector Database.
 * **Contribution:** Built parsing logic and deployed real-time inference endpoints.
